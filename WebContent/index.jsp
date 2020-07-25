@@ -1,3 +1,3 @@
 <% 
-response.sendRedirect("./rest/servicios/departamentos");
+response.sendRedirect("./rest/servicios/productos");
 %>
